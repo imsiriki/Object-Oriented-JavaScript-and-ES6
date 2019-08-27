@@ -1,0 +1,15 @@
+data types 2 types
+
+1) primitive types
+   *) simple data
+      1)Number
+      2)string
+      3)boolean
+      4) null
+      6) undefined
+
+2) Refrance types
+
+  *) objects in memory
+
+  

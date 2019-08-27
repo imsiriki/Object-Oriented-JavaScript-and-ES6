@@ -1,1 +1,1 @@
-document.write("testing");
+data type 2 types
